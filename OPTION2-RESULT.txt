@@ -1,0 +1,1110 @@
+------------------------------------
+Starting Board
+Current State (Heuristic): 7
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 1 
+0 1 0 0 0 0 1 0 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+Step No.1
+Current State (Heuristic): 6
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 1 1 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+Step No.2
+Current State (Heuristic): 6
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 1 1 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+Sideways Move!
+
+Step No.3
+Current State (Heuristic): 6
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 1 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 
+Sideways Move!
+
+Step No.4
+Current State (Heuristic): 6
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 
+Sideways Move!
+
+Step No.5
+Current State (Heuristic): 6
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 1 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 
+Sideways Move!
+
+Step No.6
+Current State (Heuristic): 6
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 
+Sideways Move!
+
+Step No.7
+Current State (Heuristic): 5
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+
+Step No.8
+Current State (Heuristic): 5
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.9
+Current State (Heuristic): 5
+1 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.10
+Current State (Heuristic): 5
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 1 0 
+0 0 0 0 0 1 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.11
+Current State (Heuristic): 3
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 1 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+Step No.12
+Current State (Heuristic): 2
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+Step No.13
+Current State (Heuristic): 2
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 1 
+0 0 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.14
+Current State (Heuristic): 2
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.15
+Current State (Heuristic): 2
+1 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.16
+Current State (Heuristic): 2
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+0 0 0 0 1 0 0 0 
+Sideways Move!
+
+Step No.17
+Current State (Heuristic): 2
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 1 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 1 0 0 0 
+Sideways Move!
+
+Step No.18
+Current State (Heuristic): 2
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+0 0 0 0 1 0 0 0 
+Sideways Move!
+
+Step No.19
+Current State (Heuristic): 2
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 1 
+0 0 0 0 1 0 0 0 
+Sideways Move!
+
+Step No.20
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 1 0 0 0 
+
+Step No.21
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.22
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.23
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.24
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.25
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.26
+Current State (Heuristic): 1
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.27
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.28
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.29
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.30
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.31
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.32
+Current State (Heuristic): 1
+1 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+Sideways Move!
+
+Step No.33
+Current State (Heuristic): 1
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 1 0 0 0 
+Sideways Move!
+
+Step No.34
+Current State (Heuristic): 1
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 1 0 0 0 
+Sideways Move!
+
+Step No.35
+Current State (Heuristic): 1
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+Sideways Move!
+
+Step No.36
+Current State (Heuristic): 1
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 1 0 0 0 
+Sideways Move!
+
+Step No.37
+Current State (Heuristic): 0
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 
+
+Success!
+Total Steps Taken: 37
+
+
+------------------------------------
+Starting Board
+Current State (Heuristic): 6
+0 0 0 0 0 0 0 1 
+0 0 1 0 0 1 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 
+0 1 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+Step No.1
+Current State (Heuristic): 5
+0 0 0 0 0 0 0 1 
+0 0 1 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 
+0 0 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+Step No.2
+Current State (Heuristic): 5
+0 0 0 0 0 0 0 1 
+0 0 1 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.3
+Current State (Heuristic): 4
+0 0 0 0 0 1 0 1 
+0 0 1 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+
+Step No.4
+Current State (Heuristic): 4
+0 0 0 0 0 1 0 1 
+0 0 1 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 0 
+1 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.5
+Current State (Heuristic): 4
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 1 
+1 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.6
+Current State (Heuristic): 4
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 1 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.7
+Current State (Heuristic): 3
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 1 
+0 1 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+Step No.8
+Current State (Heuristic): 3
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 1 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 0 0 
+Sideways Move!
+
+Step No.9
+Current State (Heuristic): 2
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 0 0 
+
+Step No.10
+Current State (Heuristic): 2
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.11
+Current State (Heuristic): 2
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.12
+Current State (Heuristic): 2
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.13
+Current State (Heuristic): 2
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.14
+Current State (Heuristic): 2
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.15
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 1 0 
+
+Step No.16
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.17
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.18
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.19
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.20
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.21
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+Sideways Move!
+
+Step No.22
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 1 0 
+Sideways Move!
+
+Step No.23
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.24
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.25
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 
+0 1 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.26
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.27
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 
+0 1 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.28
+Current State (Heuristic): 1
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.29
+Current State (Heuristic): 1
+0 1 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.30
+Current State (Heuristic): 1
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.31
+Current State (Heuristic): 1
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.32
+Current State (Heuristic): 1
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 1 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.33
+Current State (Heuristic): 1
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.34
+Current State (Heuristic): 1
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.35
+Current State (Heuristic): 1
+0 1 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.36
+Current State (Heuristic): 1
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 1 1 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.37
+Current State (Heuristic): 0
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+
+Success!
+Total Steps Taken: 37
+
+
+------------------------------------
+Starting Board
+Current State (Heuristic): 7
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 1 0 1 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 1 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+
+Step No.1
+Current State (Heuristic): 5
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 1 0 1 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 1 0 0 0 0 0 
+
+Step No.2
+Current State (Heuristic): 5
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.3
+Current State (Heuristic): 5
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 1 1 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.4
+Current State (Heuristic): 5
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 1 0 0 1 0 0 
+Sideways Move!
+
+Step No.5
+Current State (Heuristic): 5
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.6
+Current State (Heuristic): 4
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 1 0 0 
+0 0 1 0 0 0 0 0 
+
+Step No.7
+Current State (Heuristic): 4
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 1 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.8
+Current State (Heuristic): 2
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+
+Step No.9
+Current State (Heuristic): 2
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.10
+Current State (Heuristic): 2
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 1 0 0 1 0 0 
+Sideways Move!
+
+Step No.11
+Current State (Heuristic): 2
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+Sideways Move!
+
+Step No.12
+Current State (Heuristic): 2
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 1 0 0 1 0 0 
+Sideways Move!
+
+Step No.13
+Current State (Heuristic): 2
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.14
+Current State (Heuristic): 2
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.15
+Current State (Heuristic): 2
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+Sideways Move!
+
+Step No.16
+Current State (Heuristic): 0
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+
+Success!
+Total Steps Taken: 16

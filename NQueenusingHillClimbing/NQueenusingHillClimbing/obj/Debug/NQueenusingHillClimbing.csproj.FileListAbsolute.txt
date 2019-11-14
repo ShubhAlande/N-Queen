@@ -1,0 +1,7 @@
+C:\Users\Shubhangi\source\repos\NQueenusingHillClimbing\NQueenusingHillClimbing\bin\Debug\NQueenusingHillClimbing.exe.config
+C:\Users\Shubhangi\source\repos\NQueenusingHillClimbing\NQueenusingHillClimbing\bin\Debug\NQueenusingHillClimbing.exe
+C:\Users\Shubhangi\source\repos\NQueenusingHillClimbing\NQueenusingHillClimbing\bin\Debug\NQueenusingHillClimbing.pdb
+C:\Users\Shubhangi\source\repos\NQueenusingHillClimbing\NQueenusingHillClimbing\obj\Debug\NQueenusingHillClimbing.csprojAssemblyReference.cache
+C:\Users\Shubhangi\source\repos\NQueenusingHillClimbing\NQueenusingHillClimbing\obj\Debug\NQueenusingHillClimbing.csproj.CoreCompileInputs.cache
+C:\Users\Shubhangi\source\repos\NQueenusingHillClimbing\NQueenusingHillClimbing\obj\Debug\NQueenusingHillClimbing.exe
+C:\Users\Shubhangi\source\repos\NQueenusingHillClimbing\NQueenusingHillClimbing\obj\Debug\NQueenusingHillClimbing.pdb
